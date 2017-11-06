@@ -25,7 +25,7 @@ SECRET_KEY = 'gtcl3+znuv$ol&9o!1)h4!lms=sk=pf0kdbr7nvws^9cd592d1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'guiabrantes.pythonanywhere.com']
 
 
 # Application definition
